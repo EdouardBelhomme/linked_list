@@ -1,6 +1,6 @@
 /*
 ** EPITECH PROJECT, 2021
-** linked_list
+** linked_list Edouard BELHOMME
 ** File description:
 ** create_linked
 */
